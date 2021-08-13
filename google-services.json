@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497666209722",
+    "firebase_url": "https://keeruchat.firebaseio.com",
+    "project_id": "keeruchat",
+    "storage_bucket": "keeruchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497666209722:android:f89c7d57a2499cab",
+        "android_client_info": {
+          "package_name": "com.example.aniketvanja.keeruchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497666209722-ga1q8imbjqqlik648mu8fo5sp6oa9pdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aniketvanja.keeruchat",
+            "certificate_hash": "3d93abdc106612d94541db376790b181fd410849"
+          }
+        },
+        {
+          "client_id": "497666209722-7it722a6apu4plade9rs493mli64u5m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pFdP1jOtJgEvK_p_Mg_hgfLAdFtWVpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497666209722-7it722a6apu4plade9rs493mli64u5m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

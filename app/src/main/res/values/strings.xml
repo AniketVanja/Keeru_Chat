@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keeru Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="Keeru_chat">Keeru Chat</string>
+    <string name="register">register</string>
+</resources>
